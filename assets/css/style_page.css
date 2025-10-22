@@ -1,0 +1,40 @@
+body {
+  direction: ltr;
+}
+.ladi-wraper {
+  margin: 0 auto;
+  width: 420px;
+}
+@font-face {
+  font-family: "VkJLVVuaXZlcnNpdHkudHRm";
+  src: url("https://w.ladicdn.com/5c728619c417ab07e5194baa/vni-university-20240502171037-qnw7l.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: "VkJLVNoaXNobpQnJcgudHRm";
+  src: url("https://w.ladicdn.com/5c728619c417ab07e5194baa/vni-shishonibrush-20240502171037-cfoff.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: "VVRNIFdlZGRpbmcgSyZULnRZg";
+  src: url("https://w.ladicdn.com/5c728619c417ab07e5194baa/utm-wedding-kt-20240502170713-kqjd8.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: "VVRNIFppcmtvbidGY";
+  src: url("https://w.ladicdn.com/5c728619c417ab07e5194baa/utm-zirkon-20240502170726-nohzt.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: "VkJLUxvdmUudHRm";
+  src: url("https://w.ladicdn.com/5c728619c417ab07e5194baa/vni-love-20240502171014-x0bjf.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: "VVZOQmVuWHVhblSLlRURg";
+  src: url("https://w.ladicdn.com/5c728619c417ab07e5194baa/uvnbenxuan_r-20240502170726-wtnlr.ttf")
+    format("truetype");
+}
+body {
+  font-family: "Open Sans", sans-serif;
+}
