@@ -2533,22 +2533,6 @@ body {
 #SHAPE53 svg:last-child {
   fill: rgb(255, 220, 133);
 }
-#IMAGE36 {
-  width: 47.5px;
-  height: 47.5px;
-  top: 4.75px;
-  left: 10.5px;
-}
-#IMAGE36 > .ladi-image > .ladi-image-background {
-  width: 64.8375px;
-  height: 64.8375px;
-  top: -9.2625px;
-  left: -8.075px;
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/nguyen-duc-le-huong-20240603025524-cmdme.png");
-}
-#IMAGE36 > .ladi-image {
-  border-radius: 500px;
-}
 #SECTION3 {
   height: 597px;
 }
