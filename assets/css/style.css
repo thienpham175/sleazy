@@ -1989,7 +1989,6 @@ body {
   height: 841.5px;
   top: 0px;
   left: -78px;
-  background-image: url("/assets/images/z5509894740591_c3a7fab2b6aa9c0ee42d9d6446d96627-20240605084127-sgokg.jpg");
 }
 #HEADLINE8,
 #PARAGRAPH146 {
@@ -2774,11 +2773,11 @@ body {
   top: -65px;
   left: -10.6667px;
 }
-#IMAGE3 > .ladi-image > .ladi-image-background,
+/* #IMAGE3 > .ladi-image > .ladi-image-background,
 #GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="28"],
 #GALLERY4 .ladi-gallery .ladi-gallery-view-item[data-index="0"] {
   background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894598394_fa2a3f34c6dfea8973fdd33080aef86e-20240605084009-gjnnq.jpg");
-}
+} */
 #IMAGE3 > .ladi-image,
 #IMAGE4 > .ladi-image,
 #IMAGE9 > .ladi-image,
@@ -2896,13 +2895,11 @@ body {
   top: 115px;
   left: 0.101px;
 }
-#GROUP43,
 #BOX30,
 #GROUP44,
 #BOX31,
 #GROUP45,
 #BOX32,
-#GROUP46,
 #BOX33,
 #GROUP47,
 #BOX34,
@@ -2911,17 +2908,6 @@ body {
 #SHAPE67 {
   width: 30px;
   height: 30px;
-}
-#GROUP43 {
-  top: 835.5px;
-  left: 21.399px;
-}
-#GROUP43.ladi-animation > .ladi-group,
-#GROUP46.ladi-animation > .ladi-group {
-  animation-name: bounceInLeft;
-  animation-delay: 1s;
-  animation-duration: 2s;
-  animation-iteration-count: 1;
 }
 #BOX30 > .ladi-box,
 #BOX31 > .ladi-box,
@@ -2980,7 +2966,7 @@ body {
 }
 #GROUP44 {
   top: 835.5px;
-  left: 58.399px;
+  left: 21.399px;
 }
 #GROUP44.ladi-animation > .ladi-group,
 #GROUP47.ladi-animation > .ladi-group {
@@ -3002,7 +2988,7 @@ body {
 }
 #GROUP45 {
   top: 835.5px;
-  left: 95.399px;
+  left: 58.399px;
 }
 #GROUP45.ladi-animation > .ladi-group,
 #GROUP48.ladi-animation > .ladi-group,
@@ -3036,11 +3022,6 @@ body {
   height: 584px;
   top: -95px;
   left: -17px;
-}
-#IMAGE4 > .ladi-image > .ladi-image-background,
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="22"],
-#GALLERY5 .ladi-gallery .ladi-gallery-view-item[data-index="0"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894618502_aeb479999e1a5c79fc2172a16e607c49-20240605084028-fievd.jpg");
 }
 #GROUP4 {
   width: 377.101px;
@@ -3087,17 +3068,13 @@ body {
   width: 100%;
   padding: 8px 0px;
 }
-#GROUP46 {
+#GROUP47 {
   top: 702px;
   left: 21.3485px;
 }
-#GROUP47 {
-  top: 702px;
-  left: 59.3485px;
-}
 #GROUP48 {
   top: 702px;
-  left: 103.349px;
+  left: 59.349px;
 }
 #SECTION4 {
   height: 1047.3px;
