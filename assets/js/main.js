@@ -1,7 +1,5 @@
 window.__eventDataPromise.then(() => {
-  const eventData = JSON.parse(
-    document.getElementById("script_event_data").textContent
-  );
+  JSON.parse(document.getElementById("script_event_data").textContent);
   // Tiếp tục xử lý như cũ
   // ladi viewport
   window.ladi_viewport = function (b) {
