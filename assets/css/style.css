@@ -2216,9 +2216,7 @@ body {
 #LOICHUC,
 #XNTD,
 #CHURE,
-#GALLERY4,
 #CODAU,
-#GALLERY5,
 #POPUP15,
 #IMAGE42,
 #IMAGE42 > .ladi-image > .ladi-image-background,
@@ -2745,11 +2743,6 @@ body {
   top: -65px;
   left: -10.6667px;
 }
-/* #IMAGE3 > .ladi-image > .ladi-image-background,
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="28"],
-#GALLERY4 .ladi-gallery .ladi-gallery-view-item[data-index="0"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894598394_fa2a3f34c6dfea8973fdd33080aef86e-20240605084009-gjnnq.jpg");
-} */
 #IMAGE3 > .ladi-image,
 #IMAGE4 > .ladi-image,
 #IMAGE9 > .ladi-image,
@@ -3182,23 +3175,9 @@ body {
   top: 219.9px;
   left: 21.3485px;
 }
-#IMAGE9 > .ladi-image > .ladi-image-background {
-  width: 194.977px;
-  height: 292.467px;
-  top: -95.0365px;
-  left: -15.2367px;
-  background-image: url("https://w.ladicdn.com/s500x600/5c728619c417ab07e5194baa/z5509894780647_8e64fd75edb0e70654ed0a6b26f7cc06-20240605084127-lcu2v.jpg");
-}
 #IMAGE11 {
   top: 219.9px;
   left: 218.45px;
-}
-#IMAGE11 > .ladi-image > .ladi-image-background {
-  width: 180.657px;
-  height: 270.985px;
-  top: -56.0365px;
-  left: -9.90329px;
-  background-image: url("https://w.ladicdn.com/s500x600/5c728619c417ab07e5194baa/z5509894761622_db2671debbac36bf0df51dd780db07fc-20240605084127-ebqew.jpg");
 }
 #IMAGE11.ladi-animation > .ladi-image,
 #IMAGE13.ladi-animation > .ladi-image,
@@ -3214,89 +3193,33 @@ body {
   top: 437.9px;
   left: 21.3485px;
 }
-#IMAGE12 > .ladi-image > .ladi-image-background {
-  width: 188.811px;
-  height: 283.217px;
-  top: -71.0365px;
-  left: -12.9033px;
-  background-image: url("https://w.ladicdn.com/s500x600/5c728619c417ab07e5194baa/z5509894675452_06d91026be150d2096c8196d6083741b-20240605084108-v771c.jpg");
-}
 #IMAGE13 {
   top: 437.9px;
   left: 218.45px;
-}
-#IMAGE13 > .ladi-image > .ladi-image-background {
-  width: 184.978px;
-  height: 277.467px;
-  top: -12.0365px;
-  left: -10.5699px;
-  background-image: url("https://w.ladicdn.com/s500x600/5c728619c417ab07e5194baa/z5509894657498_6b8516dab050f1c629a53921c5eb9236-20240605084029-b5gdb.jpg");
 }
 #IMAGE14 {
   top: 658.9px;
   left: 21.3485px;
 }
-#IMAGE14 > .ladi-image > .ladi-image-background {
-  width: 186.811px;
-  height: 280.217px;
-  top: -46.0365px;
-  left: -12.9034px;
-  background-image: url("https://w.ladicdn.com/s500x600/5c728619c417ab07e5194baa/z5509894740591_c3a7fab2b6aa9c0ee42d9d6446d96627-20240605084127-sgokg.jpg");
-}
 #IMAGE15 {
   top: 658.9px;
   left: 218.45px;
-}
-#IMAGE15 > .ladi-image > .ladi-image-background {
-  width: 201.978px;
-  height: 302.967px;
-  top: -78.037px;
-  left: -18.57px;
-  background-image: url("https://w.ladicdn.com/s550x650/5c728619c417ab07e5194baa/z5509894740389_003458f5a3e310982c55997a600560a9-20240605084127-gmzr5.jpg");
 }
 #IMAGE16 {
   top: 876.9px;
   left: 21.3485px;
 }
-#IMAGE16 > .ladi-image > .ladi-image-background {
-  width: 190.657px;
-  height: 285.985px;
-  top: -53.0365px;
-  left: -19.9033px;
-  background-image: url("https://w.ladicdn.com/s500x600/5c728619c417ab07e5194baa/z5509894402783_fcf7926708e253a8b5f93b01c7e199e0-20240605083938-2v4bw.jpg");
-}
 #IMAGE17 {
   top: 876.9px;
   left: 218.45px;
-}
-#IMAGE17 > .ladi-image > .ladi-image-background {
-  width: 185.99px;
-  height: 278.985px;
-  top: -25.0365px;
-  left: -11.9033px;
-  background-image: url("https://w.ladicdn.com/s500x600/5c728619c417ab07e5194baa/z5509894346582_c70487a9f2d13cae31ddbd1fda47676f-20240605083923-8evta.jpg");
 }
 #IMAGE18 {
   top: 1096.9px;
   left: 21.3485px;
 }
-#IMAGE18 > .ladi-image > .ladi-image-background {
-  width: 192.656px;
-  height: 288.985px;
-  top: -52.0365px;
-  left: -15.57px;
-  background-image: url("https://w.ladicdn.com/s500x600/5c728619c417ab07e5194baa/z5509894402569_7ade50e712354f1a6d254798b2976b5a-20240605083938-kmmgf.jpg");
-}
 #IMAGE19 {
   top: 1096.9px;
   left: 218.45px;
-}
-#IMAGE19 > .ladi-image > .ladi-image-background {
-  width: 188.657px;
-  height: 282.985px;
-  top: -76.0365px;
-  left: -12.9033px;
-  background-image: url("https://w.ladicdn.com/s500x600/5c728619c417ab07e5194baa/z5509894385416_30e7d015cf4a73c2270a899f66dcf9e0-20240605083923-bssb_.jpg");
 }
 #BUTTON2 {
   width: 200px;
@@ -4625,9 +4548,7 @@ body {
   text-align: center;
 }
 #SECTION_POPUP,
-#GALLERY1 > .ladi-gallery > .ladi-gallery-control,
-#GALLERY4 > .ladi-gallery > .ladi-gallery-control,
-#GALLERY5 > .ladi-gallery > .ladi-gallery-control {
+#GALLERY1 > .ladi-gallery > .ladi-gallery-control {
   height: 0px;
 }
 #POPUP4 {
@@ -4652,27 +4573,13 @@ body {
   width: 398.663px;
   height: 587px;
 }
-#GALLERY1 > .ladi-gallery > .ladi-gallery-view,
-#GALLERY4 > .ladi-gallery > .ladi-gallery-view,
-#GALLERY5 > .ladi-gallery > .ladi-gallery-view {
+#GALLERY1 > .ladi-gallery > .ladi-gallery-view {
   height: calc(100% + 0px);
 }
-#GALLERY1 > .ladi-gallery > .ladi-gallery-control,
-#GALLERY4 > .ladi-gallery > .ladi-gallery-control,
-#GALLERY5 > .ladi-gallery > .ladi-gallery-control {
+#GALLERY1 > .ladi-gallery > .ladi-gallery-control {
   display: none;
 }
 #GALLERY1
-  > .ladi-gallery
-  > .ladi-gallery-control
-  > .ladi-gallery-control-box
-  > .ladi-gallery-control-item,
-#GALLERY4
-  > .ladi-gallery
-  > .ladi-gallery-control
-  > .ladi-gallery-control-box
-  > .ladi-gallery-control-item,
-#GALLERY5
   > .ladi-gallery
   > .ladi-gallery-control
   > .ladi-gallery-control-box
@@ -4680,316 +4587,6 @@ body {
   width: 0px;
   height: 0px;
   margin-right: 0px;
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="0"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894780647_8e64fd75edb0e70654ed0a6b26f7cc06-20240605084127-lcu2v.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="0"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894780647_8e64fd75edb0e70654ed0a6b26f7cc06-20240605084127-lcu2v.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="1"],
-#GALLERY4 .ladi-gallery .ladi-gallery-view-item[data-index="1"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894780646_7d60ad65af43174b49ff28d600a6d47c-20240605084127-janyv.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="1"],
-#GALLERY4 .ladi-gallery .ladi-gallery-control-item[data-index="1"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894780646_7d60ad65af43174b49ff28d600a6d47c-20240605084127-janyv.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="2"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894761622_db2671debbac36bf0df51dd780db07fc-20240605084127-ebqew.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="2"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894761622_db2671debbac36bf0df51dd780db07fc-20240605084127-ebqew.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="3"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894761621_ab74a6856258da2d53a58ffff904f479-20240605084127-ofmtd.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="3"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894761621_ab74a6856258da2d53a58ffff904f479-20240605084127-ofmtd.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="4"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894740594_cd134bd55c65e49ddc70fdafdb5d501f-20240605084127-1gvsn.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="4"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894740594_cd134bd55c65e49ddc70fdafdb5d501f-20240605084127-1gvsn.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="5"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894719738_701bbcc11c9a7bbee6ab907f4ae6140c-20240605084109-cvbdi.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="5"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894719738_701bbcc11c9a7bbee6ab907f4ae6140c-20240605084109-cvbdi.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="6"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894719739_0d294d5c79db4adc37459e7aa2769913-20240605084109-jt-by.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="6"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894719739_0d294d5c79db4adc37459e7aa2769913-20240605084109-jt-by.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="7"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894719740_230c5a81df1b51d2590353df117474c9-20240605084126-v_dyu.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="7"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894719740_230c5a81df1b51d2590353df117474c9-20240605084126-v_dyu.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="8"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894740591_c3a7fab2b6aa9c0ee42d9d6446d96627-20240605084127-sgokg.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="8"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894740591_c3a7fab2b6aa9c0ee42d9d6446d96627-20240605084127-sgokg.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="9"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894740389_003458f5a3e310982c55997a600560a9-20240605084127-gmzr5.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="9"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894740389_003458f5a3e310982c55997a600560a9-20240605084127-gmzr5.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="10"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894696995_50b2ba1ba883993eb22ee973762d1dc1-20240605084109-obj4o.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="10"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894696995_50b2ba1ba883993eb22ee973762d1dc1-20240605084109-obj4o.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="11"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894696822_47b118bb149eaa372c2e19abb9a56228-20240605084108-9fan4.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="11"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894696822_47b118bb149eaa372c2e19abb9a56228-20240605084108-9fan4.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="12"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894696812_dc920eb5ec58df9d121632eab02384b0-20240605084108-5-qkh.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="12"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894696812_dc920eb5ec58df9d121632eab02384b0-20240605084108-5-qkh.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="13"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894675453_e36340027629d425717aacbfec68a2d1-20240605084108-3_wcq.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="13"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894675453_e36340027629d425717aacbfec68a2d1-20240605084108-3_wcq.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="14"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894657498_6b8516dab050f1c629a53921c5eb9236-20240605084029-b5gdb.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="14"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894657498_6b8516dab050f1c629a53921c5eb9236-20240605084029-b5gdb.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="15"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894657747_f7dd339053ebc2377742e07b7c30ef31-20240605084029-zggop.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="15"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894657747_f7dd339053ebc2377742e07b7c30ef31-20240605084029-zggop.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="16"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894675452_06d91026be150d2096c8196d6083741b-20240605084029-m9r_e.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="16"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894675452_06d91026be150d2096c8196d6083741b-20240605084029-m9r_e.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="17"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894657747_f7dd339053ebc2377742e07b7c30ef31-20240605084108-zelzh.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="17"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894657747_f7dd339053ebc2377742e07b7c30ef31-20240605084108-zelzh.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="18"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894675452_06d91026be150d2096c8196d6083741b-20240605084108-v771c.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="18"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894675452_06d91026be150d2096c8196d6083741b-20240605084108-v771c.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="19"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894638144_66df480333c551afdbb489a875ff416d-20240605084029-px2hi.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="19"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894638144_66df480333c551afdbb489a875ff416d-20240605084029-px2hi.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="20"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894638141_d5ab8707f56e5ed484d9a756bf434da9-20240605084028-ivhfe.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="20"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894638141_d5ab8707f56e5ed484d9a756bf434da9-20240605084028-ivhfe.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="21"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894618597_4d61d77ec072fa9c6afd52d83bdd1cc4-20240605084028-agvub.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="21"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894618597_4d61d77ec072fa9c6afd52d83bdd1cc4-20240605084028-agvub.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="22"],
-#GALLERY5 .ladi-gallery .ladi-gallery-control-item[data-index="0"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894618502_aeb479999e1a5c79fc2172a16e607c49-20240605084028-fievd.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="23"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894598396_5ca39f3a12f07748471ba78e4cac4e6a-20240605084009-jw2lk.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="23"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894598396_5ca39f3a12f07748471ba78e4cac4e6a-20240605084009-jw2lk.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="24"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894558271_263e49fbf35d9afe408bd6a9d9402d6b-20240605084007--wnzo.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="24"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894558271_263e49fbf35d9afe408bd6a9d9402d6b-20240605084007--wnzo.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="25"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894578745_7b4c3a2437c71877fe6b675e40d2d4cb-20240605084008-fgwcz.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="25"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894578745_7b4c3a2437c71877fe6b675e40d2d4cb-20240605084008-fgwcz.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="26"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894578746_7f1988296a9165b4278d536b7dbc8d71-20240605084008-_skck.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="26"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894578746_7f1988296a9165b4278d536b7dbc8d71-20240605084008-_skck.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="27"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894578945_7e2d92df308ce0581186903fb6e1e18e-20240605084008-zbp64.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="27"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894578945_7e2d92df308ce0581186903fb6e1e18e-20240605084008-zbp64.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="28"],
-#GALLERY4 .ladi-gallery .ladi-gallery-control-item[data-index="0"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894598394_fa2a3f34c6dfea8973fdd33080aef86e-20240605084009-gjnnq.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="29"],
-#GALLERY5 .ladi-gallery .ladi-gallery-view-item[data-index="1"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894558259_82b592b2a8828712598ac61df6823441-20240605083952-imokl.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="29"],
-#GALLERY5 .ladi-gallery .ladi-gallery-control-item[data-index="1"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894558259_82b592b2a8828712598ac61df6823441-20240605083952-imokl.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="30"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894539674_121bbc956d456404895d566ee391da57-20240605083951-rnu17.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="30"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894539674_121bbc956d456404895d566ee391da57-20240605083951-rnu17.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="31"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894521169_93d6d52ebaa6152ca7f903d19d107ddd-20240605083951-ncfpu.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="31"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894521169_93d6d52ebaa6152ca7f903d19d107ddd-20240605083951-ncfpu.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="32"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894521167_de8186c68d18a15cd9cd31be9c9b56fd-20240605083951-up3uc.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="32"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894521167_de8186c68d18a15cd9cd31be9c9b56fd-20240605083951-up3uc.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="33"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894520918_afca1f2aff25d03c30da473844edd5c8-20240605083950-3xxgw.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="33"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894520918_afca1f2aff25d03c30da473844edd5c8-20240605083950-3xxgw.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="34"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894439444_36a0e80de30b98ee2ec43c941dfd4628-20240605083939-v57zc.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="34"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894439444_36a0e80de30b98ee2ec43c941dfd4628-20240605083939-v57zc.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="35"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894458071_68973348dab25d641789cac3f1ce3158-20240605083939-flus0.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="35"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894458071_68973348dab25d641789cac3f1ce3158-20240605083939-flus0.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="36"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894458241_241fabae19e93bdd6bae7edb7c04ba06-20240605083939-aaskt.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="36"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894458241_241fabae19e93bdd6bae7edb7c04ba06-20240605083939-aaskt.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="37"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894499976_25bca3407506264c0da18e304becee18-20240605083950-qfust.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="37"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894499976_25bca3407506264c0da18e304becee18-20240605083950-qfust.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="38"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894499977_8438fecff9f1fe76e2ef999f72faf6e7-20240605083950-amvlb.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="38"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894499977_8438fecff9f1fe76e2ef999f72faf6e7-20240605083950-amvlb.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="39"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894422197_d290331c23c20d3e58099493ac119f0a-20240605083938-ipej3.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="39"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894422197_d290331c23c20d3e58099493ac119f0a-20240605083938-ipej3.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="40"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894402782_39c6becb15d786dbf1102789704e9dd2-20240605083938-kwp-i.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="40"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894402782_39c6becb15d786dbf1102789704e9dd2-20240605083938-kwp-i.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="41"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894402783_fcf7926708e253a8b5f93b01c7e199e0-20240605083938-2v4bw.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="41"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894402783_fcf7926708e253a8b5f93b01c7e199e0-20240605083938-2v4bw.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="42"],
-#GALLERY4 .ladi-gallery .ladi-gallery-view-item[data-index="2"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894385416_30e7d015cf4a73c2270a899f66dcf9e0-20240605083923-bssb_.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="42"],
-#GALLERY4 .ladi-gallery .ladi-gallery-control-item[data-index="2"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894385416_30e7d015cf4a73c2270a899f66dcf9e0-20240605083923-bssb_.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="43"],
-#GALLERY5 .ladi-gallery .ladi-gallery-view-item[data-index="2"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894402569_7ade50e712354f1a6d254798b2976b5a-20240605083938-kmmgf.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="43"],
-#GALLERY5 .ladi-gallery .ladi-gallery-control-item[data-index="2"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894402569_7ade50e712354f1a6d254798b2976b5a-20240605083938-kmmgf.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="44"],
-#GALLERY5 .ladi-gallery .ladi-gallery-view-item[data-index="4"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894327616_becfa14f52a309d31afcb13a7c58991d-20240605083923-w6nlk.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="44"],
-#GALLERY5 .ladi-gallery .ladi-gallery-control-item[data-index="4"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894327616_becfa14f52a309d31afcb13a7c58991d-20240605083923-w6nlk.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="45"],
-#GALLERY5 .ladi-gallery .ladi-gallery-view-item[data-index="3"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894346386_9703e1845c28b657172276b399bc0d6c-20240605083923-97eco.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="45"],
-#GALLERY5 .ladi-gallery .ladi-gallery-control-item[data-index="3"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894346386_9703e1845c28b657172276b399bc0d6c-20240605083923-97eco.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="46"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894346582_c70487a9f2d13cae31ddbd1fda47676f-20240605083923-8evta.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="46"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894346582_c70487a9f2d13cae31ddbd1fda47676f-20240605083923-8evta.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="47"],
-#GALLERY4 .ladi-gallery .ladi-gallery-view-item[data-index="3"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894366157_0229dd3dcd5c23c4491a1600005737b6-20240605083923-cxtzn.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="47"],
-#GALLERY4 .ladi-gallery .ladi-gallery-control-item[data-index="3"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894366157_0229dd3dcd5c23c4491a1600005737b6-20240605083923-cxtzn.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="48"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894366160_31bfaf92677ada6032d772eda5658bc2-20240605083923-sc9gx.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="48"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894366160_31bfaf92677ada6032d772eda5658bc2-20240605083923-sc9gx.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-view-item[data-index="49"] {
-  background-image: url("https://w.ladicdn.com/s700x900/5c728619c417ab07e5194baa/z5509894307976_9f6549ca61a981f31abf29e614772261-20240605083922-wxoi7.jpg");
-}
-#GALLERY1 .ladi-gallery .ladi-gallery-control-item[data-index="49"] {
-  background-image: url("https://w.ladicdn.com/s400x400/5c728619c417ab07e5194baa/z5509894307976_9f6549ca61a981f31abf29e614772261-20240605083922-wxoi7.jpg");
 }
 #THIEP,
 #MUNGCUOI,
@@ -5027,9 +4624,7 @@ body {
   left: 2px;
 }
 #CHURE,
-#GALLERY4,
-#CODAU,
-#GALLERY5 {
+#CODAU {
   width: 395px;
   height: 550px;
 }
