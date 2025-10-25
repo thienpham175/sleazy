@@ -15,6 +15,58 @@
       content="Sử dụng Full các tính năng nâng cao, các tính năng đặc biệt của thiệp và sử dụng trọn đời."
     />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      window.ladi_viewport = function (b) {
+        var a = document;
+        b = b ? b : "innerWidth";
+        var c = window[b];
+        var d = true;
+        if (
+          typeof window.ladi_is_desktop == "undefined" ||
+          window.ladi_is_desktop == undefined
+        ) {
+          window.ladi_is_desktop = !d;
+        }
+        var e = 960;
+        var f = 420;
+        var g = "";
+        if (!d) {
+          g = "width=" + e + ",user-scalable=no,initial-scale=1.0";
+        } else {
+          var h = 1;
+          var i = f;
+          if (i != c) {
+            h = c / i;
+          }
+          g =
+            "width=" +
+            i +
+            ",user-scalable=no,initial-scale=" +
+            h +
+            ",minimum-scale=" +
+            h +
+            ",maximum-scale=" +
+            h;
+        }
+        var j = a.getElementById("viewport");
+        if (!j) {
+          j = a.createElement("meta");
+          j.id = "viewport";
+          j.name = "viewport";
+          a.head.appendChild(j);
+        }
+        j.setAttribute("content", g);
+      };
+      window.ladi_viewport();
+      window.ladi_fbq_data = [];
+      window.ladi_fbq = function () {
+        window.ladi_fbq_data.push(arguments);
+      };
+      window.ladi_ttq_data = [];
+      window.ladi_ttq = function () {
+        window.ladi_ttq_data.push(arguments);
+      };
+    </script>
 
     <meta name="format-detection" content="telephone=no" />
     <link
@@ -4547,7 +4599,17 @@
       }
     </script>
 
-    <script src="assets/js/ladipagev3.min.js" type="text/javascript"></script>
+    <!--[if lt IE 9
+      ]><script src="https://w.ladicdn.com/v5/source/html5shiv.min.js?v=1752746419968"></script>
+      <script src="https://w.ladicdn.com/v5/source/respond.min.js?v=1752746419968"></script
+    ><![endif]-->
+
+    <script
+      preload
+      as="script"
+      src="assets/js/ladipagev3.min.js"
+      type="text/javascript"
+    ></script>
 
     <script type="text/javascript" src="assets/js/main.js"></script>
   </body>
